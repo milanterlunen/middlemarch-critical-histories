@@ -9,14 +9,14 @@ New: aiming for more general journals, (eg ELH, NLH, PMLA)
 	- creating the corpus
 	- the text-matcher algorithm 
 - 3) Discussion: parts of the novel 
-	- 1st half vs. 2nd half
+	a) 1st half vs. 2nd half
 		- Meta-discussion about visualization choices & binning, describing visualization choices for non-digital humanist readers
-	- Which books (of the 8 books) are most /least quoted
-	- Which chapters are most/least quoted
+		- Which books (of the 8 books) are most /least quoted
+	b) Which chapters are most/least quoted
 		- Chapter 20 
-	- Which paragraphs (within Chapter 20) are most/least quoted
+	c) Which paragraphs (within Chapter 20) are most/least quoted
 		- Annotated edition? Jokey footnote
-	- Diachronic
+	d) Diachronic
 		- The rise and fall of chapter 15, this way of talking about the value of a diachronic analysis 
 			- Compare diachronic view with a synchronic heat map  
 - 4) Discussion: insights into the field
